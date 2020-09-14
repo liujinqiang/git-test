@@ -6,4 +6,5 @@ package com.liu;
  */
 public class Hallo {
     String a="131e2";
+    String b="131e2";
 }
